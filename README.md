@@ -1,5 +1,5 @@
 # Parser smartphones
-####collects information about phones from the marketplace
+#### collects information about phones from the marketplace
 
 
 * Technology:
